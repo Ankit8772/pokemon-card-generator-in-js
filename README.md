@@ -1,1 +1,1 @@
-# pokemon-card-generator-in-js
+# joke-generator-in-js
